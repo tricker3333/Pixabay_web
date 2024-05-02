@@ -21,6 +21,6 @@ Download the source code from the [repository](https://github.com/tricker3333/Pi
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/tricker3333/Pixabay_web/assets/59133867/4b7629ed-2373-4b91-a0d5-8cae5f5402eb)
-![Screenshot 2](https://github.com/tricker3333/Pixabay_web/assets/59133867/bad1646e-a509-471a-ad94-9e1cc485c3a)
+<img src="https://github.com/tricker3333/Pixabay_web/assets/59133867/4b7629ed-2373-4b91-a0d5-8cae5f5402eb" alt="Screenshot 1" width="400" height="auto">
+<img src="https://github.com/tricker3333/Pixabay_web/assets/59133867/bad1646e-a509-471a-ad94-9e1cc485c3a" alt="Screenshot 2" width="400" height="auto">
 
